@@ -34,8 +34,8 @@ A modern, production-ready full-stack SaaS boilerplate built with Next.js 13+, E
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/peakpulse-saas-boilerplate.git
-cd peakpulse-saas-boilerplate
+git clone https://github.com/peakpulsesol/peakpulse-saas-boilerplate.git
+cd pps-boilerplate
 ```
 
 2. Install dependencies:
