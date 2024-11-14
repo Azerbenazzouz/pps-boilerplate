@@ -130,7 +130,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📫 Support
 
-For support, email support@peakpulse.solutions or join our Discord community.
+For support, email client@peakpulsesol.com and follow us on social media
 
 ---
 
